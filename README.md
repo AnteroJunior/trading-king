@@ -4,7 +4,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/github/license/anterojunior/meals-application"/>
+  <img src="https://img.shields.io/github/license/AnteroJunior/trading-king" />
 </p>
 
 <p align='center'>Live on <a href="https://trading-king.vercel.app/">Vercel</a></p>
