@@ -49,6 +49,7 @@ For this project I used:
 - Apexcharts
 - localStorage
 - React Router
+- Bootstrap 5
 
 <h2 id='run'>Run it</h2>
 
